@@ -1,0 +1,17 @@
+{
+  "name": "Compras · Pedidos e OC",
+  "short_name": "Compras",
+  "description": "Pedidos de material das obras, cotações, ordens de compra e recebimento.",
+  "lang": "pt-BR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#E7EAEC",
+  "theme_color": "#1A1F24",
+  "icons": [
+    { "src": "icone-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icone-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icone-mascara.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
